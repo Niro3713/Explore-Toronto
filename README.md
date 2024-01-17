@@ -1,2 +1,2 @@
 # Explore-Toronto
-Tourist locations, activities and more!
+This landing page contains tourist attractions, events, and activities in Toronto.
